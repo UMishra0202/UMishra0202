@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hi, I'm Utkarsh
 
-<!--
-**UMishra0202/UMishra0202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧬 Turning biological data into interpretable insights | Bioinformatics × Data Science
 
-Here are some ideas to get you started:
+🎓 M.Tech Bioinformatics @ Delhi Technological University (DTU)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧪 Open to research collaborations & bioinformatics roles
+
+---
+
+### 🔬 Focus Areas
+
+* Computational Immunology & Disease Biology
+* NGS Data Analysis (RNA-seq, Variant Calling)
+* Building reproducible, end-to-end bioinformatics pipelines
+
+---
+
+### ⚙️ Tech Stack
+
+* **Languages:** Python, R
+* **Bioinformatics:** RNA-seq, Genomics, Variant Analysis
+* **Data Science:** Machine Learning on biological datasets
+* **Workflow:** Snakemake (learning), reproducible research
+
+---
+
+### 🚧 Currently Building
+
+* RNA-seq pipeline (FASTQ → biological insights)
+* Disease-focused genomic analysis
+* ML models for biological classification
+
+---
+
+### 🎯 Approach
+
+I focus on going beyond tool usage —
+understanding data, designing pipelines, and extracting meaningful biological insights.
+
+---
+
+### 📌 Upcoming Projects
+
+* Bioinformatics Toolkit (Python CLI)
+* Variant Calling Pipeline
+* Single-cell RNA-seq Analysis
+
+---
+
+### 📫 Connect With Me
+
+[LinkedIn](www.linkedin.com/in/utkarshmishra02)
